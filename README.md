@@ -1,13 +1,14 @@
-Hola, soy Sebastian Rosenblunn! 👋
+Hello, I'm Sebastian Rosenblunn! 👋
+![banner](/banner.png)
 
-Un poco sobre mi...
+A little bit about me...
 
-Apasionado por la programación y la psicología, ¡me encanta cómo estas dos disciplinas se entrelazan en el campo de la investigación! Actualemnte mi objetivo profesional se centra en Data Analytics, y me fascina el conocimiento emergente que surge de la aplicación de técnicas estadísticas y de Machine Learning sobre los datos. 📊🔍
+Passionate about programming and psychology, I love how these two disciplines intertwine in the field of research! Currently, my professional goal is focused on Data Analytics, and I am fascinated by the emerging knowledge that arises from the application of statistical techniques and Machine Learning on data. 📊🔍
 
-Como Data Analyst Junior Advance, tengo experiencia en la extracción, transformación y carga de datos (ETL) utilizando Python/R y las librerias al usa. También tengo habilidades para realizar análisis exploratorios de datos (EDA) y generar insights relevantes a través de gráficas y análisis estadístico tanto asi como la elaboracion de dasboards en powerBI/Tableau/Looker.Tengo un manejo considerable de SQL para la creacion y manipulacion de bases datos relaciones. Además, puedo implementar modelos de Machine Learning relativamente sencillos y desplegarlos a través de servicios como FastAPI y Streamlit. 🚀📈 Tambien tengo experiencia en servicion Google Cloud Plataform como Cloud Storage, Cloud Functions, Bigquery, AppEngine... entre otras.
+As a Junior Advance Data Analyst, I have experience in extracting, transforming, and loading data (ETL) using Python/R and data manipulation libraries. I also have skills in performing exploratory data analysis (EDA) and generating relevant insights through graphs and statistical analysis, as well as creating dashboards in PowerBI/Tableau/Looker. I have considerable experience in creating and manipulating relational databases with SQL. Furthermore, I can implement relatively simple Machine Learning models and deploy them through services like FastAPI and Streamlit. 🚀📈 I also have experience in Google Cloud Platform services such as Cloud Storage, Cloud Functions, Bigquery, AppEngine, among others.
 
-Como estudiante de Psicología, me interesa aprender y desarrollar las habilidades más importantes para la autogestión y el trabajo en equipo, así como adentrarme cada vez más en los procedimientos y teoría que soportan la metodología de investigación. 🧠🔍
+As a Psychology student, I am interested in learning and developing the most important skills for self-management and teamwork, as well as delving deeper into the procedures and theory that support research methodology. 🧠🔍
 
-Estoy comprometido con el aprendizaje continuo y siempre estoy abierto a nuevas oportunidades que me permitan crecer tanto profesional como personalmente en este apasionante campo. ¡Amo los desafíos! 💪🔥
+I am committed to continuous learning and am always open to new opportunities that allow me to grow both professionally and personally in this exciting field. I love challenges! 💪🔥
 
-Si estás buscando un Data Analyst/Scientist para colaborar en proyectos relacionados, ¡no dudes en contactarme a través de mi correo electrónico rosenblunn@proton.me! 📩
+If you are looking for a Data Analyst/Scientist to collaborate on related projects, don't hesitate to contact me through my email [rosenblunn@proton.me]! 📩
